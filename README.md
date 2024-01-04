@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Padmakumar18
-- ✨ Freshers
+- ✨ Fresher
 - 🌱 I’m currently learning Java , C++
 - 💞️ Enthusiastic Junior Java Developer Ready to Code and Collaborate
 - 📫 How to reach me - "www.linkedin.com/in/cpadmakumar718"
