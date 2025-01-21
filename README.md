@@ -1,19 +1,13 @@
 
-## Iam Padma kumar
+## Hi, I'm Padma Kumar
 
-Software developer                                        
-🌟 Aspiring Full Stack Developer specializing in Java with a strong focus on backend development and Svelte for modern web applications <br/>
-💻 Experienced in building and managing School Management Apps and Internal Apps with features like scheduling, attendance, payroll, and user management.<br/>
-🔧 Proficient in Java, HTML, CSS, JavaScript, SQL, and frameworks like Svelte and Bootstrap.<br/>
-🎨 UI/UX Enthusiast with project experience in Figma, including designing applications like "Red Community" and School Management App.<br/>
-📈 Passionate about solving real-world problems and optimizing processes, such as maximizing testing system efficiency and creating intuitive web solutions.<br/>
-📚 Currently enhancing my knowledge in DSA using Java, with a focus on recursion and advanced problem-solving.<br/>
-🛠️ Projects include:
-🔹 TIC-TAC-TOE Game: Built with Svelte for interactive gameplay.
-🔹 Sudoku Solver: Designed for odd numbers using Java and array lists.
-🔹 FLAMES Project: A fun program for relationship prediction using Java.<br/>
-🏆 Strong believer in continuous learning and exploring new technologies for future advancements.<br/>
-📫 Let’s connect<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/pixelpoet_718/profilecard/?igsh=YW43dTdnMzdjdmM4) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cpadmakumar718//)
+🌟 **Aspiring Full Stack Developer** specializing in **Java** (backend) and **Svelte** (modern web apps).  
+💻 Built and managed **School Management** and **Internal Apps** with scheduling, attendance, payroll, and more.  
+🔧 Proficient in **Java**, **C#**, **HTML**, **CSS**, **JavaScript**, **SQL**, **React**, **Svelte**, and **Bootstrap** .  
+🎨 **UI/UX Enthusiast** with Figma experience on projects like **Red Community** and **Learntrack**.  
+📈 Passionate about solving real-world problems and optimizing processes.  
+🏆 Advocate for continuous learning and exploring new technologies.  
+📫 Let’s connect <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/pixelpoet_718/profilecard/?igsh=YW43dTdnMzdjdmM4) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cpadmakumar718//)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
