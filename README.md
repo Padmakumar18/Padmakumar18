@@ -2,10 +2,18 @@
 
 Software developer
 <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">                                            
-- 🍭 I’m currently learning Go
-- 🍭 I’m looking for **Software development opportunities**
-- 🍭 I’d love to chat about backend development.
-- 🍭 How to reach me :
+🌟 Aspiring Full Stack Developer specializing in Java with a strong focus on backend development and Svelte for modern web applications.
+💻 Experienced in building and managing School Management Apps and Internal Apps with features like scheduling, attendance, payroll, and user management.
+🔧 Proficient in Java, HTML, CSS, JavaScript, SQL, and frameworks like Svelte and Bootstrap.
+🎨 UI/UX Enthusiast with project experience in Figma, including designing applications like "Red Community" and School Management App.
+📈 Passionate about solving real-world problems and optimizing processes, such as maximizing testing system efficiency and creating intuitive web solutions.
+📚 Currently enhancing my knowledge in DSA using Java, with a focus on recursion and advanced problem-solving.
+🛠️ Projects include:
+🔹 TIC-TAC-TOE Game: Built with Svelte for interactive gameplay.
+🔹 Sudoku Solver: Designed for odd numbers using Java and array lists.
+🔹 FLAMES Project: A fun program for relationship prediction using Java.
+🏆 Strong believer in continuous learning and exploring new technologies for future advancements.
+📫 Let’s connect: LinkedIn | GitHub.
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/pixelpoet_718/profilecard/?igsh=YW43dTdnMzdjdmM4) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cpadmakumar718//)
 
 ### I code in
