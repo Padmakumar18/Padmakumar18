@@ -3,7 +3,7 @@
 Software developer
 <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">                                            
 -🌟 Aspiring Full Stack Developer specializing in Java with a strong focus on backend development and Svelte for modern web applications.
-💻 Experienced in building and managing School Management Apps and Internal Apps with features like scheduling, attendance, payroll, and user management.
+-💻 Experienced in building and managing School Management Apps and Internal Apps with features like scheduling, attendance, payroll, and user management.
 🔧 Proficient in Java, HTML, CSS, JavaScript, SQL, and frameworks like Svelte and Bootstrap.
 🎨 UI/UX Enthusiast with project experience in Figma, including designing applications like "Red Community" and School Management App.
 📈 Passionate about solving real-world problems and optimizing processes, such as maximizing testing system efficiency and creating intuitive web solutions.
