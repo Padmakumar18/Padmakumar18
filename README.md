@@ -23,6 +23,8 @@
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+  
 </p>
 
 ### IDE and Tools I Use  
@@ -35,6 +37,7 @@
   <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
   <img height="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Padma_kumar?theme=dark&font=Marcellus&ext=heatmap)
