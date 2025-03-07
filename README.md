@@ -15,6 +15,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
