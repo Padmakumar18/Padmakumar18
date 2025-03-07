@@ -1,4 +1,4 @@
-## Hi, I'm Padma Kumar
+![image](https://github.com/user-attachments/assets/08f0208a-d79b-42be-92ac-64b55263b59c)## Hi, I'm Padma Kumar
 <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">    
 
 - **Aspiring Full Stack Developer** specializing in **Java** (backend) and **Svelte** (modern web apps).  
@@ -18,7 +18,7 @@
   <img height="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"/>
   <img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"/>
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/510px-Apache_Maven_logo.svg.png"/>
+  <img height="50" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
