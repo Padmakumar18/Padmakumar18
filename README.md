@@ -18,8 +18,6 @@
   <img height="50" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000"/>
   <img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"/>
-  <img height="50" src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies-thumbnail.png"/>
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/510px-Apache_Maven_logo.svg.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
