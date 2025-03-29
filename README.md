@@ -3,7 +3,6 @@
 
 - **Aspiring Full Stack Developer** specializing in **Java** (backend) and **Svelte** (modern web apps).  
 - Proficient in **Java**, **HTML**, **CSS**, **JavaScript**, **SQL**, **React**, **Svelte**, and **Bootstrap**.  
-- 🌟 **UI/UX Enthusiast** with Figma experience on projects like **Red Community** and **Learntrack**.  
 - Passionate about solving real-world problems and optimizing processes.  
 - Advocate for continuous learning and exploring new technologies.  
 - Let’s connect  
