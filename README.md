@@ -1,4 +1,4 @@
-## Hi, I'm Padma Kumar
+## Hi, This is Padma Kumar
 <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - **Aspiring Full Stack Developer** specializing in **Java** (backend) and **Svelte** (modern web apps).  
