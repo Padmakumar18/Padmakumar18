@@ -3,8 +3,8 @@
 
 - **Aspiring Full Stack Developer** specializing in **Java** (backend) and **Svelte** (modern web apps).  
 - Proficient in **Java**, **HTML**, **CSS**, **JavaScript**, **SQL**, **React**, **Svelte**, **Spring boot**and **Tailwind**.
-- Passionate about solving real-world problems and optimizing processes.  
-- Advocate for continuous learning and exploring new technologies.  
+- Passionate about solving real-world problems and optimizing processes.
+- Advocate for continuous learning and exploring new technologies.
 - Let’s connect  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cpadmakumar718//)
 
