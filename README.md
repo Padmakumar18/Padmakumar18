@@ -2,10 +2,10 @@
 <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - **Aspiring Full Stack Developer** specializing in **Java** (backend) and **Svelte** (modern web apps).  
-- Proficient in **Java**, **HTML**, **CSS**, **JavaScript**, **SQL**, **React**, **Svelte**, **Spring boot**and **Tailwind**
+- Proficient in **Java**, **HTML**, **CSS**, **JavaScript**, **SQL**, **React**, **Svelte**, **Spring boot**and **Tailwind**.
 - Passionate about solving real-world problems and optimizing processes.
 - Advocate for continuous learning and exploring new technologies.
-- Let’s connect  
+- Let’s connect :
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cpadmakumar718//)
 
 ### I code in  
