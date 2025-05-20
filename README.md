@@ -11,6 +11,14 @@
 
 ---
 
+### 🌐 Portfolio & Links  
+- 🔗 [GitHub](https://github.com/Padmakumar18)  
+- 🌐 [Portfolio Website](https://who-is-pk.netlify.app/)  
+- 📈 [LeetCode](https://leetcode.com/u/Padma_kumar)  
+
+
+---
+
 ### 🚀 Tech Stack & Languages
 <p align="left">
   <img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
@@ -48,11 +56,14 @@
 
 ---
 
-### 🌐 Portfolio & Links  
-- 🔗 [GitHub](https://github.com/Padmakumar18)  
-- 🌐 [Portfolio Website](https://who-is-pk.netlify.app/)  
-- 📈 [LeetCode](https://leetcode.com/u/Padma_kumar)  
+### 📊 GitHub Stats & Contributions  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Padmakumar18&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Padmakumar18&theme=react&hide_border=true" width="48%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Padmakumar18&theme=vue" width="98%" />
+</p>
 
 ⭐ *“Crafting Clean & Scalable Web Solutions”*
