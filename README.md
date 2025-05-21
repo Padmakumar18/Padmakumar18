@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00F5FF&center=false&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Svelte+%7C+React;Clean+%26+Scalable+Web+Solutions;Let's+Connect!)](https://github.com/Padmakumar18)
-
 ## Hi, I'm Padma Kumar 👋
 <img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
