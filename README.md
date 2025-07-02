@@ -22,6 +22,7 @@
   <img height="40" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
   <img height="40" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind"/>
   <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"/>
   <img height="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img height="40" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte"/>
