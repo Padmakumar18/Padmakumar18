@@ -15,12 +15,24 @@
 
 
 ---
-👨‍💻 Programming Languages
-<p align="left"> <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/> <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"/> <img height="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/> <img height="40" src="https://img.icons8.com/color/48/python.png" alt="Python"/> </p>
-⚙️ Frameworks & Libraries
-<p align="left"> <img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React"/> <img height="40" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte"/> <img height="40" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS"/> <img height="40" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png" alt="Spring Boot"/> <img height="40" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate"/> <img height="40" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven"/> <img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/> <img height="40" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/> </p>
-🛢️ Databases
-<p align="left"> <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> <img height="40" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/> </p>
+
+### 🚀 Tech Stack & Languages
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  <img height="40" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img height="40" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind"/>
+  <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"/>
+  <img height="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte"/>
+  <img height="40" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate"/>
+  <img height="40" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven"/>
+  <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img height="40" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img height="40" src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img height="40" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png" alt="Spring Boot"/>
+</p>
 
 ---
 
