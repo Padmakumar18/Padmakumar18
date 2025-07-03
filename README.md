@@ -40,12 +40,12 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/>
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven" height="40"/>
+ <!-- <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="40"/> -->
+   <!-- <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" alt="Maven" height="40"/> -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" height="40"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" height="40"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png" alt="Spring Boot" height="40"/>
+  <!-- <img src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png" alt="Spring Boot" height="40"/> -->
 </p>
 
 ---
