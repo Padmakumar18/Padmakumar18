@@ -1,15 +1,23 @@
 <h1 align="center">Hi, I'm Padma Kumar C 👋</h1>
 
 ---
+<table>
+<tr>
+<td>
 
-### 💡 About Me  
+<h1>Hi, I'm Padma Kumar C 👋</h1>
+
 - 💻 Skilled in **Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, and SQL**  
 - 🚀 Passionate about solving **real-world problems** & building **scalable web solutions**  
 - 🔍 Curious **technophile**, always exploring new tools and technologies  
 - 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/cpadmakumar718/)
-- <p align="right">
+
+</td>
+<td align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="200" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
