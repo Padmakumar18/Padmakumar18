@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind" height="30"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind" height="40"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
    <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="40"/>
