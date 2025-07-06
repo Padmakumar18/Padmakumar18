@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Padma Kumar C 👋</h1>
 
-<p align="center">💻 Crafting Clean & Scalable Web Solutions</p>
+<p align="center"><strong>💻 Crafting Clean & Scalable Web Solutions</strong></p>
 
 ---
 
@@ -8,7 +8,7 @@
   <tr>
     <td>
       <ul>
-        <li>💻 Skilled in <strong>Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, and SQL</strong></li>
+        <li>💻 Skilled in <strong>Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, SQL</strong></li>
         <li>🚀 Passionate about solving <strong>real-world problems</strong> & building <strong>scalable web solutions</strong></li>
         <li>🔍 Curious <strong>technophile</strong>, always exploring new tools and technologies</li>
         <li>🤝 Let’s connect on <a href="https://www.linkedin.com/in/cpadmakumar718/">LinkedIn</a></li>
@@ -33,18 +33,18 @@
 ### 🚀 Tech Stack & Languages
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" height="40"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" height="40"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" height="40"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -52,13 +52,13 @@
 ### 🛠️ Tools & IDEs
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40"/>
-  <img src="https://img.icons8.com/officel/480/java-eclipse.png" alt="Eclipse" height="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" height="40"/>
-  <img src="https://img.icons8.com/color/480/notion--v1.png" alt="Notion" height="40"/>
-  <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" alt="Photoshop" height="40"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
