@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Padma Kumar C👋</h1>
+<h1 align="center">Hi, I'm Padma Kumar</h1>
 
 <p align="center"><strong>💻 Crafting Clean & Scalable Web Solutions</strong></p>
 
