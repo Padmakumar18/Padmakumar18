@@ -3,25 +3,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Marcellus&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padma+Kumar;Crafting+Clean+%26+Scalable+Web+Solutions;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing Animation" />
 </h1>
 
-<table>
-  <tr>
-    <!-- About Me Section -->
-    <td width="55%">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>💻 Skilled in <strong>Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, SQL</strong></li>
-        <li>🚀 Passionate about solving <strong>real-world problems</strong> & building <strong>scalable web solutions</strong></li>
-        <li>🔍 Curious <strong>technophile</strong>, always exploring new tools and technologies</li>
-        <li>🤝 Let’s connect on <a href="https://www.linkedin.com/in/cpadmakumar718/">LinkedIn</a></li>
-      </ul>
-    </td>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="250"/>
+</p>
 
-    <!-- Image/GIF Section -->
-    <td align="center" width="45%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
-    </td>
-  </tr>
-</table>
+---
+
+## 🚀 About Me
+- 💻 Skilled in **Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, SQL**
+- 🌍 Passionate about **real-world problem-solving** & building **scalable web solutions**
+- 🔍 Curious **technophile**, exploring emerging tools & frameworks
+- 🤝 Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/cpadmakumar718/)
+
+---
 
 ## 🌐 Portfolio & Links
 <p align="center">
