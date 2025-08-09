@@ -13,7 +13,6 @@
 - 💻 Skilled in **Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, SQL**
 - 🌍 Passionate about **real-world problem-solving** & building **scalable web solutions**
 - 🔍 Curious **technophile**, exploring emerging tools & frameworks
-- 🤝 Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/cpadmakumar718/)
 
 ---
 
