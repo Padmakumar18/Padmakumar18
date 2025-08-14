@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Marcellus&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padma+Kumar;Crafting+Clean+%26+Scalable+Web+Solutions;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Marcellus&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padma+Kumar C;Crafting+Clean+%26+Scalable+Web+Solutions;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing Animation" />
 </h1>
 
 <p align="center">
