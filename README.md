@@ -11,7 +11,7 @@
 
 ## 🚀 About Me  
 - 💻 **Proficient in Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, and SQL**, with a focus on delivering clean, maintainable, and high-performance solutions.  
-- 🌍 **Passionate about solving real-world challenges** through innovative and scalable web applications that drive tangible business impact.  
+- 🌍 **Passionate about solving real-world challenges** through innovative and scalable web applications that drive tangible business impact.
 - 🔍 **Tech enthusiast** committed to continuous learning, actively exploring emerging tools, frameworks, and industry best practices to stay ahead in a rapidly evolving digital landscape.  
 
 
