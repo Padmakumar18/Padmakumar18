@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Marcellus&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padma+Kumar;Crafting+Clean+%26+Scalable+Web+Solutions;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing Animation"/>
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="250"/> </p>
 🚀 About Me
-💻 Proficient in Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte, SQL
+💻 Proficient in Java, Spring Boot, HTML, CSS, JavaScript, React, Tailwind, Svelte
 
 🌍 Passionate about solving real-world challenges with scalable web solutions
 
