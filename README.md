@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/Padmakumar18"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://who-is-pk.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://leetcode.com/u/Padma_kumar"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> </a> </p>
 💻 Tech Stack
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,java,python,js,react,svelte,mysql,postgres,django,spring" alt="Tech Stack"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,java,js,react,svelte,mysql,postgres,spring" alt="Tech Stack"/> 
 </p>
 
 🛠 Tools & IDEs  
