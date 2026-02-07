@@ -11,12 +11,12 @@
  </a> <a href="https://who-is-pk.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://leetcode.com/u/Padma_kumar"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> </a> </p>
 💻 Tech Stack
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,java,js,react,svelte,mysql,postgres" alt="Tech Stack"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,java,js,react,svelte,mysql,angular" alt="Tech Stack"/> 
 </p>
 
 🛠 Tools & IDEs  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,postman,notion,photoshop,figma" alt="Tools & IDEs"/> 
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,postman,notion,figma" alt="Tools & IDEs"/> 
 </p>
 📊 LeetCode & GitHub Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Padma_kumar?theme=dark&font=Marcellus&ext=heatmap" width="48%" alt="Leetcode Stats"/> <img src="https://github-readme-stats.vercel.app/api?username=Padmakumar18&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Padmakumar18&theme=react&hide_border=true" width="48%" alt="GitHub Streak"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Padmakumar18&theme=vue" width="48%" alt="Profile Summary"/> </p>
