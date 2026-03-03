@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="250"/> </p>
 🚀 About Me :
 
-🌍 Passionate about solving real-world challenges with scalable web solutions
+🌍 Passionate about solving real-world challenges with scalable web 
 
 🔍 Tech enthusiast, always exploring new tools and industry best practices 
 
