@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="250"/> </p>
 🚀 About Me :
 
-🌍 Passionate about solving real-world challenges with scalable web 
+🌍 Passionate about solving real-world challenges with scalable web solution
 
 🔍 Tech enthusiast, always exploring new tools and industry best practices 
 
@@ -11,7 +11,7 @@
  </a> <a href="https://who-is-pk.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://leetcode.com/u/Padma_kumar"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> </a> </p>
 💻 Tech Stack
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,java,cs,js,react,svelte,mysql,angular,dotnet" alt="Tech Stack"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,java,cs,js,react,svelte,mysql,angular,dotnet,asp" alt="Tech Stack"/> 
 </p>
 
 
