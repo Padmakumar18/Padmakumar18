@@ -4,7 +4,7 @@
 
 🌍 Passionate about solving real-world challenges with scalable web solution
 
-🔍 Tech enthusiast, always exploring new tools and industry best 
+🔍 Tech enthusiast, always exploring new tools and industry best practices 
 
 🌐 Portfolio & Links :
 <p align="center"> <a href="https://www.linkedin.com/in/-padma-kumar/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
